@@ -148,3 +148,4 @@ print('151.txt分类情况:{}'.format(predict('邮件_files/151.txt')))
 print('152.txt分类情况:{}'.format(predict('邮件_files/152.txt')))
 ```
 ### 运行结果
+<img src="https://c-ssl.dtstatic.com/uploads/blog/202309/16/DWS6W44oFdWo4BL.thumb.300_0.jpg_webp" alt="运行结果">
