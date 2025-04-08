@@ -148,4 +148,4 @@ print('151.txt分类情况:{}'.format(predict('邮件_files/151.txt')))
 print('152.txt分类情况:{}'.format(predict('邮件_files/152.txt')))
 ```
 ### 运行结果
-<img src="https://c-ssl.dtstatic.com/uploads/blog/202309/16/DWS6W44oFdWo4BL.thumb.300_0.jpg_webp" alt="运行结果">
+<img src="https://github.com/wh2531000/QZX/blob/main/bayes-mails-classify-master-main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png?raw=true" alt="运行结果">
